@@ -1,4 +1,4 @@
-# Amazon Clone - README
+# Amazon Clone
 
 ## Project Overview
 
@@ -60,7 +60,7 @@ This project is a front-end replica of Amazon's website, focused on recreating i
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/PradeepTiwarii/Amazon-Clone.git
 ```
 
 ### 2. Open the Project:
